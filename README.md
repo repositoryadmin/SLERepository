@@ -6,9 +6,9 @@ This repository stores datasets for performance evaluation of inertial sensor-ba
   
 ## Datasets
 
-### [Dataset](dataset/)
+### [SLEDataset](SLEDataset/)
 
-Benchmark dataset for performance evaluation of inertial sensor-based step length estimation models. It contains more than 22 km of gait measurements for 15 healthy adults for three walking speeds, four sensor positions typical of smartphone users, and two independent sets of field tests: one for tuning the models' constants and the other one for the performance evaluation of the models. [Full description of the dataset.](dataset/DATASET_DESCRIPTION.md)
+Benchmark dataset for performance evaluation of inertial sensor-based step length estimation models. It contains more than 22 km of gait measurements for 15 healthy adults for three walking speeds, four sensor positions typical of smartphone users, and two independent sets of field tests: one for tuning the models' constants and the other one for the performance evaluation of the models. [Full description of the dataset.](SLEDataset/README.md)
 
 ## Contributions
 
