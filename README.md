@@ -19,6 +19,19 @@ Researchers are kindly invited to contribute their gait data. To insure the unif
 -	A folder with the name of the dataset should be created in the root directory, in which the data should be uploaded. In this folder, the data can be organized in the way that is the most convenient for the contributor, but a file containing the summary and organization of the dataset, and the description of the experiment should be included.
 	
 -	A short summary and a link on dataset should be included in the root README file in the section [Datasets](#Datasets). General information on the number of persons that participated in the experiment, walking speeds and number of sensor position that were tested and walked distances in total should be included. 
+
+## Contact
+
+Principal researcher: Melanija Vezocnik </br>
+Mentor: Matjaz B. Juric
+
+E-mail: contact.sle.repository@gmail.com
+
+Laboratory for Integration of Information Systems </br>
+University of Ljubljana </br> 
+Faculty of Computer and Information Science </br> 
+Slovenia
+
 	
 	
  
