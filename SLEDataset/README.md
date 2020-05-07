@@ -6,7 +6,7 @@ Benchmark dataset for performance evaluation of inertial sensor-based step lengt
 
 ## Description of experiment
 
-Raw linear acceleration sensor measurements were obtained from a group of 15 healthy adults (10 men and five women). Considering smartphone's local coordinate system, the following positions were tested:
+Raw linear acceleration and orientation sensor measurements were obtained from a group of 15 healthy adults (10 men and five women). Considering smartphone's local coordinate system, the following positions were tested:
 
 1.	**Pocket.** Smartphone is carried in the front right trousers’ pocket. Z-axis is pointing in the walking direction and y-axis is pointing in the opposite direction of the floor. Smartphone’s position is fixed. 
 2.	**Bag.** Smartphone is carried in the pocket inside the bag. Its x-axis is pointing in the walking direction and its screen is turned away from the user's body so that the z-axis is parallel to floor. Smartphone's position is fixed and the bag is handheld.
