@@ -6,14 +6,14 @@ Benchmark dataset for performance evaluation of inertial sensor-based step lengt
 
 ## Description of experiment
 
-Measurements were obtained from a group of 15 healthy adults (10 men and five women). Considering smartphone's local coordinate system, the following positions were tested:
+Raw linear acceleration sensor measurements were obtained from a group of 15 healthy adults (10 men and five women). Considering smartphone's local coordinate system, the following positions were tested:
 
 1.	**Pocket.** Smartphone is carried in the front right trousers’ pocket. Z-axis is pointing in the walking direction and y-axis is pointing in the opposite direction of the floor. Smartphone’s position is fixed. 
 2.	**Bag.** Smartphone is carried in the pocket inside the bag. Its x-axis is pointing in the walking direction and its screen is turned away from the user's body so that the z-axis is parallel to floor. Smartphone's position is fixed and the bag is handheld.
 3.	**Hand-reading.** Smartphone is held by the user in the right hand in front of him/her so that the screen is parallel to floor and pointing in the opposite direction of the floor. Smartphone's y-axis is pointing in the walking direction and its position is fixed.
 4.	**Hand-swinging.** The user is holding the smartphone in the right hand, which is lowered. Smartphone's y-axis is pointing in the walking direction and its screen is turned towards the user's body so that the z-axis is parallel to floor. Smartphone's position is fixed.
 
-Sensor data were acquired using Samsung Galaxy S7 edge smartphone. They were sampled at 100 Hz with standard deviation of 8 Hz together with timestamps. Next, sensor data were resampled to 100 Hz using linear interpolation.
+Sensor data were acquired using Samsung Galaxy S7 edge smartphone. They were sampled at 100 Hz with standard deviation of 8 Hz together with timestamps. Next, sensor data were resampled to 100 Hz using linear interpolation. 
 
 Two independent sets of field tests were conducted for two straight test paths: 15- and 108-m-long. Every person walked each path carrying the smartphone as in the previously described four scenarios at three different steady walking speeds: slow, normal and fast. People self-selected walking speeds to their preference, but were asked to maintain the walking speed as similar as possible during all tests for the same speed.
 
