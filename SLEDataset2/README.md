@@ -6,7 +6,8 @@ Benchmark dataset for performance evaluation of inertial sensor-based step lengt
 
 ## Description of experiment
 
-For detailed description of the experiment please refer to the article: ________________________
+For detailed description of the experiment please refer to the article: <br /> 
+Vezočnik, M.; Kamnik, R.; Juric, M.B. Inertial Sensor-Based Step Length Estimation Model by Means of Principal Component Analysis. *Sensors* **2021**, *21*, 3527. https://doi.org/10.3390/s21103527
 
 Linear acceleration sensor measurements were obtained from a group of 10 healthy adults (six men and four women). Considering the smartphone's local coordinate system, the following positions were tested:
 
